@@ -1,0 +1,58 @@
+﻿[{
+	"objectSlug": "sword",
+	"itemName": "Sword",
+	"description": "This is an old worn sword.",
+	"itemType": "Weapon",
+	"actionName": "Equip",
+	"itemModifier": 0,
+	"stats":[
+		{
+			"statType": "Power",
+			"baseValue": 20,
+			"statName": "Power"
+		},
+		{
+			"statType": "Defense",
+			"baseValue": 4,
+			"statName": "Defense"
+		},
+		{
+			"statType": "AttackSpeed",
+			"baseValue": 4,
+			"statName": "Atk Spd"
+		}
+	]
+},
+{
+	"objectSlug": "staff",
+	"itemName": "Staff",
+	"description": "It's warm to the touch.",
+	"itemType": "Weapon",
+	"actionName": "Equip",
+	"itemModifier": 0,
+	"stats":[
+		{
+			"statType": "Power",
+			"baseValue": 20,
+			"statName": "Power"
+		},
+		{
+			"statType": "Defense",
+			"baseValue": 4,
+			"statName": "Defense"
+		},
+		{
+			"statType": "AttackSpeed",
+			"baseValue": 4,
+			"statName": "Atk Spd"
+		}
+	]
+},
+{
+	"objectSlug": "potion_log",
+	"itemName": "Log Potion",
+	"description": "A potion that logs something to the console",
+	"itemType": "Consumable",
+	"actionName": "Drink",
+	"itemModifier": 0,
+}]
